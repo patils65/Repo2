@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is 94B5-CD4B
-
- Directory of C:\myproject
-
-01/23/2019  02:39 PM    <DIR>          .
-01/23/2019  02:39 PM    <DIR>          ..
-01/23/2019  02:39 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  22,167,633,920 bytes free
+change 1
